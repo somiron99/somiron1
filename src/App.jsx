@@ -1,12 +1,12 @@
-import React from 'react'
-import Data_Table from './componentes/Data_Table'
+import React from "react";
+import Data_Table from "./componentes/Data_Table";
 
 const App = () => {
   return (
     <>
-    <Data_Table />
+      <Data_Table />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;

@@ -1,21 +1,18 @@
-*{
+* {
   margin: 0;
-  padding: 0;
+  padding: 0; 
   box-sizing: border-box;
   font-family: "poopines";
   font-size: 1.5vw;
- 
+  padding-top: 2px;
   position: relative;
 }
-html, body{
+html,
+body {
   width: 100%;
   height: 100%;
-
- 
-
-  
 }
-.container{
+.container {
   position: absolute;
   display: flex;
   align-items: center;
